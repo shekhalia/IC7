@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://diwaxgame.click/sitemap.xml
+Sitemap: https://ic7game.click/sitemap.xml
